@@ -1,0 +1,170 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-1{
+    width: 1120px;
+    margin: auto;
+}
+
+.container-2{
+    width: 1000px;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.header{
+    background-color: #6538E8;
+    position: sticky;
+    top: 0px;
+    opacity: 95%;
+}
+
+.header-flex-container{
+    padding: 16px 0;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+#selected{
+    border-bottom: 3px solid whitesmoke;
+    color: whitesmoke;
+}
+
+#logo{
+    color: whitesmoke;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.nav-items{
+    font-size: 18px;
+    text-decoration: none;
+    color: #D7CAF9;
+}
+
+li{
+    padding: 15px;
+    display: inline;
+}
+
+.get-started{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 30px;
+    border: 2px solid #D7CAF9;
+    border-radius: 5px;
+}
+
+.get-started:hover{
+    border: 2px solid whitesmoke;
+}
+
+
+.nav-items:hover{
+    border-bottom: 3px solid whitesmoke;
+    color: whitesmoke;
+    font-size: 19px;
+}
+
+
+
+.banner{
+    background-color: #6538E8;
+}
+
+.banner-flex-container{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.bnr-cnt{
+    display: flex;
+}
+
+.text-area{
+    
+    width: 50%;
+}
+
+.txt-heading{
+    margin: 7px 1px;
+    color: whitesmoke;
+    font-size: 70px;
+}
+
+.txt{
+    margin: 7px 1px;
+    color: #D7CAF9;
+    font-size: 25px;
+}
+
+.image-area{
+    float: right;
+    width: 50%;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    padding: 5px;
+}
+
+.about-flex-container{
+    padding: 100px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.about-text-area{
+    width: 50%;
+}
+
+.about-image-area{
+    float: right;
+    width: 50%;
+}
+
+.about-text-heading{
+    font-size: 30px;
+}
+
+.statistics{
+    
+    height: auto;
+    background-color: #6538E8;
+}
+
+.statistics-flex-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.stats{
+    padding: 75px 0px;
+    text-align: center;
+    
+}
+
+.stats-num{
+    margin: 0;
+    color: white;
+    font-size: 50px;
+}
+
+.stats-name{
+    margin: 3px;
+    color:#D7CAF9;
+    font-size: 17px;
+}
