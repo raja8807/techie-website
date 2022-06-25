@@ -73,7 +73,6 @@ li{
 .nav-items:hover{
     border-bottom: 3px solid whitesmoke;
     color: whitesmoke;
-    font-size: 19px;
 }
 
 
@@ -81,6 +80,7 @@ li{
 .banner{
     background-color: #6538E8;
 }
+
 
 .banner-flex-container{
     display: flex;
