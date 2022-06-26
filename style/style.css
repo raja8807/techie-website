@@ -168,3 +168,19 @@ img{
     color:#D7CAF9;
     font-size: 17px;
 }
+
+.services{
+				text-align: center;
+}
+
+.services-head{
+				padding-top:100px;
+				font-size: 50px;
+				margin: 1px;
+}
+
+hr{
+				border: solid 3px #6538E8;
+				background-color: #6538E8;
+				width: 75px;
+}
