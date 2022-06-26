@@ -177,6 +177,7 @@ img{
 				padding-top:100px;
 				font-size: 50px;
 				margin: 1px;
+				color: #434343;
 }
 
 .section-text{
@@ -187,5 +188,47 @@ hr{
 				border: solid 3px #6538E8;
 				background-color: #6538E8;
 				width: 75px;
+				margin: 15px auto;
 }
 
+.services{
+				background-color: #F9F8FE;
+}
+
+.cards-container{
+				display: flex;
+				flex-wrap: wrap;
+			 padding-bottom: 100px;
+				justify-content: center;
+}
+
+.cards{
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				text-align: center;
+				width: 340px;
+				height: 340px;
+				border-radius:1px ;
+				background-color: white;
+				margin: 10px;
+}
+
+.card-info{
+				margin: 20px;
+}
+
+.card-heading{
+				font-size: 25px;
+				color: #2D4961;
+				margin: 10px;
+}
+
+.cards-text{
+				font-size: 17px;
+				color: #434343;
+}
+
+.cards:hover{
+				box-shadow: 0px 0px 10px 3px #c5c5c5;
+}
