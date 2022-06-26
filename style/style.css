@@ -169,14 +169,18 @@ img{
     font-size: 17px;
 }
 
-.services{
+.section-detail{
 				text-align: center;
 }
 
-.services-head{
+.section-heading{
 				padding-top:100px;
 				font-size: 50px;
 				margin: 1px;
+}
+
+.section-text{
+				font-size: 20px;
 }
 
 hr{
@@ -184,3 +188,4 @@ hr{
 				background-color: #6538E8;
 				width: 75px;
 }
+
