@@ -53,10 +53,6 @@ a {
     justify-content: space-between;
 }
 
-#selected {
-    border-bottom: 3px solid whitesmoke;
-    color: whitesmoke;
-}
 
 #logo {
     color: whitesmoke;
@@ -78,6 +74,12 @@ li {
     padding: 15px;
     display: inline;
 }
+
+#selected {
+    border-bottom: 3px solid whitesmoke;
+    color: whitesmoke;
+}
+
 
 .get-started {
     display: flex;
