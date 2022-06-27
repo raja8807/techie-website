@@ -26,7 +26,7 @@ a {
     opacity: 95%;
 }
 
-.header-flex-container {
+.header-wrapper {
     padding: 16px 0;
     display: flex;
     align-items: center;
@@ -86,7 +86,7 @@ li {
 }
 
 
-.banner-flex-container {
+.banner-wrapper {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -120,7 +120,7 @@ img {
     padding: 5px;
 }
 
-.about-flex-container {
+.about-wrapper {
     padding: 100px 0;
     display: flex;
     justify-content: space-between;
@@ -145,7 +145,7 @@ img {
     background-color: #6538E8;
 }
 
-.statistics-flex-container {
+.statistics-wrapper {
     display: flex;
     justify-content: space-around;
     align-items: center;
