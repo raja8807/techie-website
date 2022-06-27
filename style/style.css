@@ -75,7 +75,7 @@ li {
 
 
 .nav-items:hover {
-    border-bottom: 3px solid whitesmoke;
+    border-bottom: 3px solid white;
     color: whitesmoke;
 }
 
@@ -92,12 +92,8 @@ li {
     justify-content: space-between;
 }
 
-.bnr-cnt {
-    display: flex;
-}
 
 .text-area {
-
     width: 50%;
 }
 
