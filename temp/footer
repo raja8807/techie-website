@@ -1,0 +1,51 @@
+<section class="footer-bottom-left">
+                        <p>© Copyright <b>Techie</b>. All Rights Reserved</p>
+                        <a href="#">Designed by BootstrapMade</a>
+                    </section>
+
+                    <section class="footer-bottom-right">
+
+                        <a href="#">
+                            <section class="footer-bottom-right-icons">
+                                <h3>T</h3>
+                            </section>
+                        </a>
+
+                        <a href="#">
+                            <section class="footer-bottom-right-icons">
+                                <h3>F</h3>
+                            </section>
+                        </a>
+
+                        <a href="#">
+                            <section class="footer-bottom-right-icons">
+                                <h3>I</h3>
+                            </section>
+                        </a>
+
+                        <a href="#">
+                            <section class="footer-bottom-right-icons">
+                                <h3>S</h3>
+                            </section>
+                        </a>
+
+                        <a href="#">
+                            <section class="footer-bottom-right-icons">
+                                <h3>Li</h3>
+                            </section>
+                        </a>
+
+                    </section
+
+
+                    .footer-bottom-right-icons{
+                        font-size: 20px;
+                        width: 37px;
+                        height: 37px;
+                        margin: 4px;
+                        background-color: #762cdd;
+                        border-radius: 50%;
+                        display: flex;
+                        justify-content: space-around;
+                        align-items: center;
+                    }
